@@ -8,11 +8,11 @@ A  project using **PostgreSQL** to clean, explore, and answer key business quest
 * **Language:** SQL
 
 ## 📂 What the Script Does
-1. **Database Setup:** Creates the database and table schema (`retail_talal_sales`) with primary keys[cite: 1].
-2. **Data Cleaning:** Checks for and removes missing (`NULL`) values to ensure data quality[cite: 1].
-3. **Exploratory Data Analysis:** Calculates total sales, unique customers, and category breakdowns[cite: 1].
-4. **Business Insights:** Solves 10 key business queries using aggregations, CTEs, window functions (`RANK()`), and conditional logic (`CASE`)[cite: 1].
+1. **Database Setup:** Creates the database and table schema (`retail_talal_sales`) with primary keys.
+2. **Data Cleaning:** Checks for and removes missing (`NULL`) values to ensure data quality.
+3. **Exploratory Data Analysis:** Calculates total sales, unique customers, and category breakdowns.
+4. **Business Insights:** Solves 10 key business queries using aggregations, CTEs, window functions (`RANK()`), and conditional logic (`CASE`).
 
 ## 💻 How to Use
 1. Open your PostgreSQL environment (such as pgAdmin or VS Code).
-2. Execute `TalalFirstSQLProject.sql` step-by-step to set up the database, clean the data, and run the analytical queries[cite: 1].
+2. Execute `TalalFirstSQLProject.sql` step-by-step to set up the database, clean the data, and run the analytical queries.
